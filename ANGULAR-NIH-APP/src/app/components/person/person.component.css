@@ -1,0 +1,17 @@
+body {
+    padding: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-menu .dropdown {
+    margin-left: auto;
+}
